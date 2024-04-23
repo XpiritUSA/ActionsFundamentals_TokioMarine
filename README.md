@@ -4,6 +4,7 @@ Repo for the `GitHub Actions Fundamentals` training.
 
 Testing push trigger
 Testing skip ci
+Testing pull request trigger
 
 ## 👉 Objectives
 
